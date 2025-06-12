@@ -1,4 +1,4 @@
-# 💫 About Me:Add commentMore actions
+# 💫 About Me:
 👯 I’m looking to collaborate on Projects<br>🌱 I’m currently learning NodeJs and NextJs<br>💬 Ask me about HTML, CSS, JavaScript, TailwindCSS, SASS, React and TypeScript<br>⚡
 
 
@@ -16,6 +16,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bolazcoding&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✨ Random Dev Quote (Updates Daily)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
