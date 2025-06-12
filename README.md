@@ -17,8 +17,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bolazcoding&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✨ Random Dev Quote (Updates Daily)
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=programming" alt="Dev Quote" />
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
