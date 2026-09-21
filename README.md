@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelabu-mobolaji-68791b243/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bj_codes) 
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_ID.svg)](https://wakatime.com/@JoseDev)
+[![wakatime](https://wakatime.com/badge/user/4e217548-8759-49c8-8164-a884d564bec4.svg)](https://wakatime.com/@4e217548-8759-49c8-8164-a884d564bec4)
 
 
 # 💻 Tech Stack:
